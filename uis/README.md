@@ -1,4 +1,4 @@
-# User Interfaces Developed.
+# User Interfaces Developed
 
 Mobile?
 
