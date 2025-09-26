@@ -1,2 +1,4 @@
-# DI-Template
-DI Template
+# Application Name
+Brief description.
+
+## Team Members
