@@ -1,10 +1,10 @@
 # Application Name
 
-Brief description.
+>Put a brief description of your app here.
 
 ## How to Run the User Interfaces
 
-Put all the information needed, if any, to run the user interfaces that were developed, in this section.
+>Put all the information needed, if any, to run the user interfaces that were developed, in this section.
 
 ## Team Members
 
